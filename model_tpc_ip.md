@@ -18,7 +18,7 @@
 |---------|------------|
 |7 warstw|4 warstwy|
 |Zakres: szeroki, ogólny model referencyjny| Zakres: skoncentrowany na komunikacji w Internecie|
-|Protokół transportowy: TCP, UDP|Protokół transportowy: TCP, UDP|
+| Nie definiuje specyficznych protokołów     | Określa protokoły TCP, UDP, IP, Ethernet, Wi-Fi |
 
 # Najpopularniejsze protokoły TCP/IP #
 **1. HTTP (Hypertext Transfer Protocol)**
